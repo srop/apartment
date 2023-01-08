@@ -265,7 +265,8 @@ display: none;
              if(!empty($_POST['Floor']) ) {   // if there is a search parameter, $requestData['search']['value'] contains search parameter
                $sql1.=" AND  TU.Floor = '".$_POST['Floor']."' AND Year = '{$year1}'";  
              }
-			  $sql1.="ORDER BY MT.ID";  
+			  $sql1.="ORDER BY MT.ROOM";
+
         //echo $sql1;
       
 //            $sql = "SELECT TU.ID,TU.Floor,TU.Room,TU.UserID,TU.Detail,TU.DateCreate,TU.DateModified,MR.IDCard,MR.Title,MR.FName,MR.LName, MR.Address "

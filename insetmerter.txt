@@ -1,0 +1,71 @@
+INSERT INTO `JanuaryMeter` (`ID`, `FromTranID`, `Year`, `Floor`, `Room`, `Rental`, `StartWater`, `EndWater`, `UnitWater`, `StartElectric`, `EndElectric`, `UnitElectric`, `Etc`, `EtcDetail`, `DateCreated`, `DateRecord`) VALUES 
+(NULL, '', '2222', '', '1417', '', '', '', '', '', '', '', '', '', '', '2023-01-08 12:31:48.000000');
+
+
+
+			  
+			  
+			  INSERT INTO FebruaryMeter 
+               ( ID,FromTranID, Year,Floor, Room,Rental,StartWater, EndWater,UnitWater, StartElectric,EndElectric,UnitElectric,Etc,DateCreated)  
+              VALUES
+              ('','179', '2023','1','1417','182','0', '0', '0','0', '0','0','0','2023-01-08 18:04:03')
+			  
+			  	  INSERT INTO FebruaryMeter 
+               ( ID,FromTranID, Year,Floor, Room,Rental,StartWater, EndWater,UnitWater, StartElectric,EndElectric,UnitElectric,Etc,DateCreated)  
+              VALUES
+              ('','179', '2023','1','1417','182','0', '0', '0','0', '0','0','0','2023-01-08 18:04:03')
+			  
+			  
+			    INSERT INTO MarchMeter 
+               ( ID,FromTranID, Year,Floor, Room,Rental,StartWater, EndWater,UnitWater, StartElectric,EndElectric,UnitElectric,Etc,DateCreated)  
+              VALUES
+              ('','179', '2023','1','1417','182','0', '0', '0','0', '0','0','0','2023-01-08 18:04:03')
+			  
+			      INSERT INTO AprilMeter 
+               ( ID,FromTranID, Year,Floor, Room,Rental,StartWater, EndWater,UnitWater, StartElectric,EndElectric,UnitElectric,Etc,DateCreated)  
+              VALUES
+              ('','179', '2023','1','1417','182','0', '0', '0','0', '0','0','0','2023-01-08 18:04:03')
+			  
+			      INSERT INTO MayMeter 
+               ( ID,FromTranID, Year,Floor, Room,Rental,StartWater, EndWater,UnitWater, StartElectric,EndElectric,UnitElectric,Etc,DateCreated)  
+              VALUES
+              ('','179', '2023','1','1417','182','0', '0', '0','0', '0','0','0','2023-01-08 18:04:03')
+			     
+				 INSERT INTO JuneMeter 
+               ( ID,FromTranID, Year,Floor, Room,Rental,StartWater, EndWater,UnitWater, StartElectric,EndElectric,UnitElectric,Etc,DateCreated)  
+              VALUES
+              ('','179', '2023','1','1417','182','0', '0', '0','0', '0','0','0','2023-01-08 18:04:03')
+			  
+			    
+			      INSERT INTO JulyMeter 
+               ( ID,FromTranID, Year,Floor, Room,Rental,StartWater, EndWater,UnitWater, StartElectric,EndElectric,UnitElectric,Etc,DateCreated)  
+              VALUES
+              ('','179', '2023','1','1417','182','0', '0', '0','0', '0','0','0','2023-01-08 18:04:03')
+			  
+			      INSERT INTO AugustMeter 
+               ( ID,FromTranID, Year,Floor, Room,Rental,StartWater, EndWater,UnitWater, StartElectric,EndElectric,UnitElectric,Etc,DateCreated)  
+              VALUES
+              ('','179', '2023','1','1417','182','0', '0', '0','0', '0','0','0','2023-01-08 18:04:03')
+			     
+				 INSERT INTO SeptemberMeter 
+               ( ID,FromTranID, Year,Floor, Room,Rental,StartWater, EndWater,UnitWater, StartElectric,EndElectric,UnitElectric,Etc,DateCreated)  
+              VALUES
+              ('','179', '2023','1','1417','182','0', '0', '0','0', '0','0','0','2023-01-08 18:04:03')
+			  
+			  
+			      INSERT INTO OctoberMeter 
+               ( ID,FromTranID, Year,Floor, Room,Rental,StartWater, EndWater,UnitWater, StartElectric,EndElectric,UnitElectric,Etc,DateCreated)  
+              VALUES
+              ('','179', '2023','1','1417','182','0', '0', '0','0', '0','0','0','2023-01-08 18:04:03')
+			  
+			      INSERT INTO NovemberMeter 
+               ( ID,FromTranID, Year,Floor, Room,Rental,StartWater, EndWater,UnitWater, StartElectric,EndElectric,UnitElectric,Etc,DateCreated)  
+              VALUES
+              ('','179', '2023','1','1417','182','0', '0', '0','0', '0','0','0','2023-01-08 18:04:03')
+			     
+				 INSERT INTO DecemberMeter 
+               ( ID,FromTranID, Year,Floor, Room,Rental,StartWater, EndWater,UnitWater, StartElectric,EndElectric,UnitElectric,Etc,DateCreated)  
+              VALUES
+              ('','179', '2023','1','1417','182','0', '0', '0','0', '0','0','0','2023-01-08 18:04:03')
+			  
+			  
